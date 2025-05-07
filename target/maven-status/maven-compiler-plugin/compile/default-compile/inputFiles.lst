@@ -1,0 +1,10 @@
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/servlet/UserServlet.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/servlet/AuthFilter.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/resources/JakartaEE10Resource.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/JakartaRestConfiguration.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/DbConnection.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/model/User.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/servlet/EmployeeServlet.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/dao/EmployeeDAO.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/model/Employee.java
+/home/pacyusi/NetBeansProjects/JavaWebApp/src/main/java/com/mycompany/javawebapp/dao/UserDAO.java

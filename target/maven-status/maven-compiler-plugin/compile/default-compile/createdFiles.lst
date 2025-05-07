@@ -1,0 +1,10 @@
+com/mycompany/javawebapp/JakartaRestConfiguration.class
+com/mycompany/javawebapp/DbConnection.class
+com/mycompany/javawebapp/dao/UserDAO.class
+com/mycompany/javawebapp/resources/JakartaEE10Resource.class
+com/mycompany/javawebapp/servlet/UserServlet.class
+com/mycompany/javawebapp/model/Employee.class
+com/mycompany/javawebapp/dao/EmployeeDAO.class
+com/mycompany/javawebapp/servlet/AuthFilter.class
+com/mycompany/javawebapp/servlet/EmployeeServlet.class
+com/mycompany/javawebapp/model/User.class
